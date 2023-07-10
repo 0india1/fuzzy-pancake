@@ -23,7 +23,7 @@ import javafx.scene.text.Font;
 import javafx.stage.Stage;
 import javafx.util.Callback;
 
-public class Lab1C extends Application {
+public class Schedule extends Application {
 
     private TableView<Person> table = new TableView<Person>();
     private final ObservableList<Person> data =
